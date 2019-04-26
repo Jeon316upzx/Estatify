@@ -1,6 +1,7 @@
 # Estatify
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
+A real Estate app with angular and firebase backend
 
 ## Development server
 
